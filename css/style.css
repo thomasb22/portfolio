@@ -384,8 +384,8 @@ main section {
 }
 
 #services h2 {
-	margin-bottom: 15px;
-	font-size: 28px;
+	text-align: center;
+	font-size: 42px;
 	font-weight: normal;
 	letter-spacing: 5px;
 	transform: translateX(200%);

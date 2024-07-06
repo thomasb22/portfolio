@@ -87,48 +87,9 @@ require('config.php');
 				</a>
 			</section>
 			<section id="services">
-				<div>
-					<ul>
-						<li>
-							<h2>
-								Développement de site web
-							</h2>
-							<p>
-								Création de site web sur mesure. Que cela soit une simple page vitrine, un blog, un site marchant, ou tout autre type de site, je suis en mesure de vous proposer mes services.
-							</p>
-						</li>
-						<li>
-							<h2>
-								Webdesign
-							</h2>
-							<p>
-								Besoin d'un nouveau design pour votre site ? Je peux vous proposer plusieurs maquettes se rapprochant du mieux possible au contenu de votre site, et à votre identité.
-							</p>
-						</li>
-						<li>
-							<h2>
-								Intégration web
-							</h2>
-							<p>
-								Vous avez un nouveau design, mais personne pour l'intégrer à votre site ? Fournissez moi votre maquette, et je l'intégrerai le plus fidèlement possible à votre site.
-							</p>
-						</li>
-						<li>
-							<h2>
-								Développement de modules ou de plugins
-							</h2>
-							<p>
-								Si vous avez besoin d'améliorer votre site, je peux vous proposer le développement ou l'installation de nouveaux modules.
-							</p>
-						</li>
-					</ul>
-					<p>
-						Je peux prendre en charge la totalité de votre projet. De l'étude de celui-ci à son hébergement. Je peux également me charger du dépôt de votre nom de domaine, ainsi que du référencement de votre site sur les moteurs de recherche.
-					</p>
-					<p>
-						Pour tous mes services, je vous accompagnerai et vous conseillerai tout au long du projet.
-					</p>
-				</div>
+				<h2>
+					Retrouvez mes services sur le site <a href="https://thomasblanschong.fr/">ThomasBlanschong.fr</a> !
+				</h2>
 				<a href="#creations" class="next">
 					<i class="fas fa-chevron-down" aria-hidden="true"></i>
 				</a>
