@@ -38,7 +38,7 @@ require('config.php');
 		<link rel="icon" href="/img/favicons/favicon.svg" type="image/svg+xml">
 		<link rel="apple-touch-icon" href="/img/favicons/apple-touch-icon.png">
 		<link rel="stylesheet" href="font-awesome/css/all.css">
-		<link rel="stylesheet" href="css/style.css?1">
+		<link rel="stylesheet" href="css/style.css?v=2">
 	</head>
 	<body>
 		<header>
